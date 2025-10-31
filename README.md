@@ -10,6 +10,8 @@ Kullanıcılar kitapları görüntüleyebilir, arama yapabilir ve kategorilere g
 
 🌐 Canlı siteyi incelemek için: [sitem](film-amber-five.vercel.app)
 
+film-amber-five.vercel.app
+
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
