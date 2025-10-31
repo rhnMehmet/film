@@ -8,7 +8,7 @@ Kullanıcılar kitapları görüntüleyebilir, arama yapabilir ve kategorilere g
 
 ## 🚀 Canlı Demo
 
-🌐 Canlı siteyi incelemek için: [sitem](film-amber-five.vercel.app)
+🌐 Canlı siteyi incelemek için: [sitem](https://film-amber-five.vercel.app)
 
 ---
 
