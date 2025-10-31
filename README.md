@@ -1,8 +1,8 @@
 
 # Filmler
 
-Bu proje, **React + Vite** ve **TailwindCSS** kullanılarak hazırlanmış bir kitap listesi uygulamasıdır.  
-Kullanıcılar kitapları görüntüleyebilir, arama yapabilir ve kategorilere göre filtreleyebilir.
+Bu proje, **React + Vite** ve **TailwindCSS** kullanılarak hazırlanmış bir film kütüphanesi uygulamasıdır.  
+Kullanıcılar filmleri görüntüleyebilir, arama yapabilir ve kategorilere göre filtreleyebilir.
 
 ---
 
@@ -27,7 +27,7 @@ Kullanıcılar kitapları görüntüleyebilir, arama yapabilir ve kategorilere g
 Projeyi yerel ortamında çalıştırmak için:
 
 ```bash
-git clone https://github.com/rhnMehmet/proje.git
+git clone https://github.com/rhnMehmet/film.git
 cd proje
 npm install
 npm run dev
